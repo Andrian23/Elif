@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #5DD0C0;
+}
+
+.navbar {
+    background: #00A08A;
+}
+
+.navbar .container-fluid a {
+    color: black;
+}
+
+.navbar li {
+    margin: 5px;
+    font-size: 12pt;
+    overflow: hidden;
+}
+
+.companies button {
+    width: 22%;
+    margin: 1% 2%;
+}
+
+.companies td,
+.companies th {
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.6em;
+}
+
+.info {
+    list-style-type: none;
+    padding: 0;
+}
+
+.addInfo {
+    float: right;
+}
